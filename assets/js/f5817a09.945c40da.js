@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2786],{5052:e=>{e.exports=JSON.parse('{"permalink":"/test-hub/2023-aia/tags/azure-ai/page/2","page":2,"postsPerPage":1,"totalPages":3,"totalCount":3,"previousPage":"/test-hub/2023-aia/tags/azure-ai","nextPage":"/test-hub/2023-aia/tags/azure-ai/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
