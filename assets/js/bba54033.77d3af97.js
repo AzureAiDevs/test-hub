@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3869],{32205:s=>{s.exports=JSON.parse('{"label":"workshop","permalink":"/test-hub/2023-aia/tags/workshop","allTagsPath":"/test-hub/2023-aia/tags","count":5}')}}]);
